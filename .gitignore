@@ -1,0 +1,11 @@
+node_modules
+.env*
+!.env.example
+.next
+.claude
+.vscode
+next-env.d.ts
+/dist/
+.vinext/
+data/
+.DS_Store
